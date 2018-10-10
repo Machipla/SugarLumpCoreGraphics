@@ -1,7 +1,7 @@
 Pod::Spec.new do |spec|
   spec.name          = 'SugarLumpCoreGraphics'
   spec.homepage      = "https://github.com/Machipla/SugarLumpCoreGraphics"
-  spec.version       = '0.0.1'
+  spec.version       = '0.0.2'
   spec.platform      = :ios, "9.0"
   spec.authors       = 'Mario Chinchilla'
   spec.summary       = 'The core graphics module of SugarLump pod'
